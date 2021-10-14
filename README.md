@@ -1,5 +1,5 @@
 <h1 align="center">Buenas 👋, Soy Juanma (Predy)</h1>
-<h3 align="center">Un stack developer de España</h3>
+<h3 align="center">Stack developer de España</h3>
 
 - 🔭 Actualmente estoy trabajando en [Evillove](de Frontend Developer)
 
