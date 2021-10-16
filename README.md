@@ -1,4 +1,4 @@
-<h1 align="center">Buenas <img src="https://raw.githubusercontent.com/PredyMaster/PredyMaster/main/Hi.gif" style="max-width:3%" />, Soy Juanma (Predy)</h1>
+<h1 align="center">Buenas <img src="https://raw.githubusercontent.com/PredyMaster/PredyMaster/main/Hi.gif" style="max-width:4%;" />, Soy Juanma (Predy)</h1>
 <h3 align="center">Stack developer de España</h3>
 
 - 🔭 Actualmente estoy trabajando en [Evillove](de Frontend Developer)
