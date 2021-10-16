@@ -1,10 +1,10 @@
 [![Header](https://raw.githubusercontent.com/PredyMaster/PredyMaster/main/HeaderStack.png "Header")](https://www.predy.es)
 
 <h2 align="center" style="text-align:center">Sobre mí:</h2>
-<p align="center">//Presentación<br>
-var Juanma = "Ya desde pequeño demostré mucho interés por la informática y el diseño, y es por ello que empecé a 
+<p align="left">//Presentación<br>
+  var <b style="color:#00b0ff">Juanma</b> = "Ya desde pequeño demostré mucho interés por la informática y el diseño, y es por ello que empecé a 
 formarme tanto en ciclos formativos como en la UPC, tengo un perfil muy autodidacta y me gusta mejorar o aprender conocimientos por mi cuenta, con lo cual siempre estoy 
-intentando aprender algo nuevo.</p>
+intentando aprender algo nuevo."</p>
 
 <h2 align="center" style="text-align:center">Lenguajes y herramientas:</h2>
   
