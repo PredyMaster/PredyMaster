@@ -2,8 +2,8 @@
 
 <h2 align="center">Sobre mí:</h2>
 <p align="left">
-  var <b>Juanma</b> = "Ya desde pequeño demostré mucho interés por la informática y el diseño, y es por ello que empecé a 
-formarme tanto en ciclos formativos como en la UPC, tengo un perfil muy autodidacta y me gusta mejorar o aprender conocimientos por mi cuenta, con lo cual siempre estoy 
+  var <b>Juanma</b> = "Desde pequeño ya demostraba mucho interés por la informática y el diseño, y es por ello que empecé a 
+formarme tanto en ciclos formativos como en la UPC, tengo un perfil muy autodidacta, me gusta mejorar y aprender conocimientos por mi cuenta, con lo cual siempre estoy 
 intentando aprender algo nuevo."</p>
 
 <h2 align="center" style="text-align:center">Lenguajes y herramientas:</h2>
