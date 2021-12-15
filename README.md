@@ -26,6 +26,6 @@
     <a href="#" alt="sass"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40" /></a>
     <a href="#" alt="typescript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" /></a>
     <a href="#" alt="express"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40" /></a>
-    <a href="#" alt="photoshop"><img src="https://logos-marcas.com/wp-content/uploads/2020/11/Adobe-Photoshop-Logo.png" alt="photoshop" width="40" height="40" /></a>
-    <a href="#" alt="illustrator"><img src="https://logodownload.org/wp-content/uploads/2017/04/adobe-Illustrator-logo-0-1.png" alt="illustrator" width="40" height="40" /></a>
+    <a href="#" alt="photoshop"><img src="https://logodownload.org/wp-content/uploads/2019/10/adobe-photoshop-logo-0.png" alt="photoshop" width="50" height="50" /></a>
+    <a href="#" alt="illustrator"><img src="https://logodownload.org/wp-content/uploads/2017/04/adobe-Illustrator-logo-0-1.png" alt="illustrator" width="50" height="50" /></a>
 </p>
